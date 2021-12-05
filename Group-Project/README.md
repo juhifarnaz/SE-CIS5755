@@ -1,3 +1,28 @@
+Group Information: 
+-------------------
+Student1: Pravalika Gundarapu 
+ID: 700724629
+emailID: pxg4629@ucmo.edu
+
+Student2: Juhi Farnaz
+ID: 700720268
+emailID: jxl02680@ucmo.edu
+
+GitHub Url:
+----------------------
+https://github.com/juhifarnaz/SE-CIS5755.git
+
+How our group work together:
+-----------------------------
+We worked together for all the activities mentioned below step by step.
+
+For steps 1-5 took 15 minutes
+6-10 took 30 minutes because console was unable to load quickly
+7-15 took 15 minutes
+16-20 took 20 minutes due to some errors while running the commands
+21-30 took 25 minutes
+31-37 took 20 minutes and for this documentation took 20 minutes.
+
 
 # Lab: Source Code Management with Github
 
